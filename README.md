@@ -1,7 +1,8 @@
 # Go Slice Sample
 
 ## Slice
-
+A type that represents a variable-length array.  
+Unlike arrays, slices can have additional elements.  
 
 ## Code
 ```Go
